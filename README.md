@@ -1,1 +1,1 @@
-[5 Features of Power Query Editor Data Transformation on Powwer BI](https://github.com/slidescope/5-features-of-power-query-editor-on-EMployees-data/blob/main/Emp%20Data%20Analysis%20-%205%20PQE%20Usage.png?raw=true)
+![5 Features of Power Query Editor Data Transformation on Power BI](https://github.com/slidescope/5-features-of-power-query-editor-on-EMployees-data/raw/main/Emp%20Data%20Analysis%20-%205%20PQE%20Usage.png)
