@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Date,CheckInTime,CheckOutTime,Location
+E001,Alice,HR,3/6/24,9.02.00,17.10.00,New York
+E002,Bob,HR,1/6/24,10.31.00,19.33.00,Austin
+E003,Charlie,HR,2/6/24,8.59.00,19.37.00,New York
+E004,Diana,HR,2/6/24,10.46.00,21.20.00,Austin
+E005,Edward,Marketing,4/6/24,10.30.00,20.21.00,Chicago
+E006,Fiona,HR,4/6/24,9.27.00,18.36.00,Chicago
+E007,George,Finance,1/6/24,8.23.00,17.29.00,San Francisco
+E008,Hannah,IT,5/6/24,9.07.00,17.53.00,San Francisco
+E009,Ian,Marketing,1/6/24,9.36.00,18.11.00,Austin
+E010,Jane,IT,3/6/24,10.27.00,19.12.00,Austin
+E001,Alice,HR,2/6/24,9.14.00,18.08.00,New York
+E002,Bob,Finance,4/6/24,9.11.00,18.51.00,New York
+E003,Charlie,IT,3/6/24,9.30.00,18.12.00,Chicago
+E004,Diana,IT,5/6/24,10.42.00,19.16.00,New York
+E005,Edward,Finance,4/6/24,9.37.00,19.36.00,Chicago
+E006,Fiona,Sales,3/6/24,8.14.00,17.06.00,Chicago
+E007,George,HR,4/6/24,9.08.00,17.21.00,San Francisco
+E008,Hannah,Sales,2/6/24,10.47.00,20.12.00,San Francisco
+E009,Ian,Marketing,3/6/24,8.35.00,17.22.00,Chicago
+E010,Jane,Sales,3/6/24,10.29.00,20.26.00,Austin
+E001,Alice,Sales,3/6/24,8.56.00,17.28.00,Boston
+E002,Bob,Marketing,1/6/24,8.28.00,17.08.00,New York
+E003,Charlie,Finance,5/6/24,8.16.00,17.40.00,Boston
+E004,Diana,Sales,5/6/24,9.04.00,19.59.00,Boston
+E005,Edward,HR,5/6/24,9.08.00,19.29.00,New York
+E006,Fiona,HR,4/6/24,8.40.00,17.40.00,San Francisco
+E007,George,IT,2/6/24,10.09.00,19.04.00,Austin
+E008,Hannah,IT,5/6/24,8.50.00,17.13.00,Austin
+E009,Ian,Finance,5/6/24,8.00.00,18.20.00,Austin
+E010,Jane,Marketing,1/6/24,9.32.00,18.47.00,New York
+E001,Alice,HR,5/6/24,8.20.00,17.06.00,Chicago
+E002,Bob,Marketing,5/6/24,8.32.00,17.14.00,New York
+E003,Charlie,Marketing,2/6/24,9.07.00,20.02.00,Austin
+E004,Diana,Sales,2/6/24,10.18.00,21.02.00,Boston
+E005,Edward,Finance,4/6/24,10.51.00,21.14.00,San Francisco
+E006,Fiona,Marketing,4/6/24,8.30.00,16.44.00,Austin
+E007,George,HR,1/6/24,10.30.00,20.44.00,San Francisco
+E008,Hannah,Sales,1/6/24,8.18.00,18.58.00,Chicago
+E009,Ian,HR,1/6/24,8.08.00,17.12.00,Chicago
+E010,Jane,Sales,3/6/24,10.51.00,20.04.00,Chicago
+E001,Alice,Sales,5/6/24,10.27.00,19.42.00,Chicago
+E002,Bob,Marketing,2/6/24,8.24.00,17.06.00,Boston
+E003,Charlie,Marketing,4/6/24,9.45.00,19.40.00,San Francisco
+E004,Diana,HR,1/6/24,9.43.00,20.04.00,New York
+E005,Edward,HR,2/6/24,8.48.00,19.16.00,Chicago
+E006,Fiona,Finance,2/6/24,9.11.00,18.26.00,Boston
+E007,George,HR,5/6/24,8.25.00,17.06.00,Boston
+E008,Hannah,Sales,1/6/24,9.00.00,17.26.00,New York
+E009,Ian,Marketing,2/6/24,9.42.00,17.52.00,Boston
+E010,Jane,Marketing,4/6/24,9.07.00,18.25.00,New York
